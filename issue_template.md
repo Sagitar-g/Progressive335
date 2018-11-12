@@ -1,13 +1,13 @@
-**Please fill in the bellow fields to create a meticulous report so that we can fix the issue properly.
+**Please fill in the bellow fields to create a meticulous report so that we can fix the issue properly.**
 
-**ID of the Spell/NPC:
+**ID of the Spell/NPC:**
 
-**Description of the bug:
+**Description of the bug:**
 
-**Current behaviour:
+**Current behaviour:**
 
-**Steps to reproduce the problem:
+**Steps to reproduce the problem:**
 
-**How it should work:
+**How it should work:**
 
-**Any other documentation that could be helpful:
+**Any other documentation that could be helpful:**
