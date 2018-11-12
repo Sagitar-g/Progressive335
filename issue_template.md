@@ -11,3 +11,12 @@ Current behaviour:
 
 
 Steps to reproduce the problem:
+
+
+
+
+How it should work:
+
+
+
+Any other documentation that could be helpful:
