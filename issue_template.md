@@ -3,6 +3,7 @@
 **ID of the Spell/NPC/Quest:**
 
 __Place an X between the brackets to specify the ID__
+
 [] Quest
 [] NPC
 [] Quest
