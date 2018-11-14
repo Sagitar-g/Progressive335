@@ -1,6 +1,11 @@
 **Please fill in the bellow fields to create a meticulous report so that we can fix the issue properly.**
+ 
+**ID of the Spell/NPC/Quest:**
 
-**ID of the Spell/NPC:**
+__Place an X between the brackets to specify the ID__
+[] Quest
+[] NPC
+[] Quest
 
 **Description of the bug:**
 
